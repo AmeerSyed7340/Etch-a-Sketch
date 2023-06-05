@@ -10,8 +10,10 @@ body{
 .container{
     display: flex;
     flex-wrap: wrap;
-    background-color: black;
-    border-radius: 10px;
+    background-color: azure;
+    box-shadow: 2px 2px 4px  rgba(0, 0, 0, 0.5);
+    border: none;
+    
 }
 
 .grid{    
@@ -22,7 +24,7 @@ body{
 }
 
 .colorGrid{
-    background-color: cyan;
+    background-color: black;
 }
 
 #size{
